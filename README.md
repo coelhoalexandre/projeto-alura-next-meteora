@@ -1,37 +1,52 @@
-![Imagem de capa escrito  Next.js: gerando site estático com SSG, maximizando a performance com SSG](./thumbnail.png)
+<h1 align="center"> Meteora </h1>
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
+<div align="center">
 
-# Meteora
+  <a href="https://github.com/coelhoalexandre/projeto-alura-next-meteora/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
-Uma aplicação que simula um e-commerce de produtos, onde contem a página inicial que lista todos os produtos e a página de detalhes de cada produto.
+</div>
 
-## 🔨 Funcionalidades do projeto
+## Sumário
 
-O aplicativo consiste em duas páginas principais: a primeira lista produtos e categorias, enquanto a segunda exibe detalhes específicos de cada produto. Atualmente, esta última é uma página gerada no lado do servidor, utilizando rotas dinâmicas. Até agora, os produtos foram simulados de maneira básica. Contudo, ao longo do curso, implementaremos estratégias para gerar páginas estáticas, consumindo API externa.
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
+- [Autor](#autor)
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Sobre o Projeto
 
-As principais técnicas e tecnologias abordadas são:
+Projeto realizado no curso [Next.js: gerando site estático com SSG](https://cursos.alura.com.br/course/next-js-gerando-site-estatico-ssg) instruido por [**Patrícia Silva**](https://github.com/gss-patricia).
 
-- `Next.js`: Framework para React com recursos de SSG.
-- `Fetch API`: Realizar requisições HTTP para buscar dados.
-- `React Components`: Componentes reutilizáveis.
-- `Web server`: Como hospedar o site.
+## Objetivos do Projeto
 
-## 🎯 Desafios do Curso
+- Conhecer a estruturação de projetos em Next.js;
+- Implementar técnicas de SSR e SSG;
+- Criar a gestão de APIs dinâmicas;
+- Integrar serviços externos para atualização de dados;
+- Otimizar a performance e SEO;
+- Realizar deploy eficiente de sites estáticos.
 
-- O principal desafio será converter as rotas dinâmicas da página de detalhes do produto em páginas estáticas exportadas.
+## Tecnolgias Utilizadas
 
-## 🛠️ Abrir e rodar o projeto
+1. HTML
+2. CSS
+3. JS
+4. React
+5. Next
 
-Após baixar o projeto, você pode abrir com seu editor de código preferido. Siga estes passos:
+## Autor
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
 
-- Abra o terminal no diretório do projeto.
-- Execute `yarn` para instalar as dependências.
-- Inicie o servidor de desenvolvimento com `yarn dev`.
-- Acesse `http://localhost:3000` no navegador para ver o projeto.
+Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
-## 📚 Mais Informações do Curso
+<br>
 
-Interessado em aprofundar seus conhecimentos em Next.js e SSR? [Acesse o curso]()!
+<br>
+
+<div align="center">
+
+<a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
+<a href = "https://cursos.alura.com.br/user/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Alura-0747a6?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura Badge"></a>
+<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
